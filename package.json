@@ -1,0 +1,15 @@
+{
+  "name": "saraiajai-node-sample",
+  "version": "1.0.0",
+  "description": "I am learning Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Always",
+    "Learning"
+  ],
+  "author": "Sarai Hannah Ajai",
+  "license": "ISC"
+}
